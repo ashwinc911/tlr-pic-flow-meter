@@ -1,0 +1,1 @@
+The code contained in this project was developed to run on a PIC24FJ256GB110 microcontroller and is tasked for communicating with various serial instruments (flow meter specifically) as well as other sensors.  The main goal is to collect data from these various sensors and record to an SD card.  It is basically a data logger but geared for low power applications.
